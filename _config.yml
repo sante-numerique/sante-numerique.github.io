@@ -20,7 +20,7 @@ title: "ESSN blog"
 description: "Un blog pour comprendre les enjeux de la transition numérique <br /> dans le domaine de la santé"
 #baseurl: "/blog"
 url: "https://sante-numerique.github.io"
-logo: "images/logo_noir_blanc_essn.png"
+logo: "images/UdeM_LOGOS-fond_noir.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
