@@ -3,7 +3,7 @@
 _Par Pascale Beliveau, 1e octobre, 2021_
 
  
-<img src="/images/DigitalHealth.png"/>
+<img src="/images/globe-g00d821d63_1920.jpg"/>
  
 
 La transformation numérique en santé a pour but d'améliorer les soins et les services offerts aux patients. Cette transformation en santé est bien entamée dans notre société et son contexte doit être considéré pour une transition optimale.  
