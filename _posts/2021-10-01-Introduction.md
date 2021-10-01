@@ -1,7 +1,6 @@
 
-% Les différents visages de la santé numérique  
-Par Pascale Beliveau 
-1e octobre, 2021 
+# Les différents visages de la santé numérique  
+Par Pascale Beliveau, 1e octobre, 2021 
 
  
 
