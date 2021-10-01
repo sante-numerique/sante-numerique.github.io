@@ -15,6 +15,7 @@ Nous lançons aujourd’hui ce blogue pour présenter et discuter de divers suje
 Voici donc un bref survol des différents thèmes d’intérêt en santé numérique. 
 
  
+ 
 
 ### L’accès et le partage de données cliniques  
 
