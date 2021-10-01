@@ -17,7 +17,7 @@ Voici donc un bref survol des différents thèmes d’intérêt en santé numér
  
  
 
-### L’accès et le partage de données cliniques  
+### <span style="color:blue">L’accès et le partage de données cliniques</span> 
 
 Le partage des données en santé a fait couler beaucoup d’encre. L’accessibilité à ces données est importante pour la santé publique et pour la recherche, notamment avec la présente pandémie de COVID19, mais il importe de mitiger les risques, notamment en lien avec la vie privée.  
 
